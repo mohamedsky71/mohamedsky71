@@ -29,11 +29,11 @@
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mohamediniesta&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=merko#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamediniesta&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mohamedsky71&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=merko#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsky71&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamediniesta&theme=merko&hide_border=true&exclude_days=Fri%2CSat)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedsky71&theme=merko&hide_border=true&exclude_days=Fri%2CSat)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
